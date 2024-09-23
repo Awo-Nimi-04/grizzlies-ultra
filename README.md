@@ -26,14 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/gallery/web-dev-grizzlies-cPZlCyo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Walkthrough GIF](https://imgur.com/a/web-dev-grizzlies-Zvjrk7G)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ...
 
-<!-- Recommended tools:
-[ScreenToGif](https://www.screentogif.com/) for Windows -->
+Recommended tools:
+[ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
